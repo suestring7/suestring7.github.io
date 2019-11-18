@@ -1,8 +1,17 @@
+STEP1:
+Change bg and Avatar
 
-READ THIS: https://jekyllrb.com/docs/structure/
+
+READ THIS: 
+https://jekyllrb.com/docs/structure/
 https://analytics.google.com/
 how to use DISQUS
 edit fun.html
+
+EXTEND:
+fm format
+bg music
+
 .
 ├── 404.html  # edit 404 page
 ├── CNAME # domain name
