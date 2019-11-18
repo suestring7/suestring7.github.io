@@ -1,6 +1,7 @@
 STEP1:
 Change bg and Avatar
-
+fix vulnerabilities:
+https://github.com/suestring7/suestring7.github.io/network/alerts
 
 READ THIS: 
 https://jekyllrb.com/docs/structure/
