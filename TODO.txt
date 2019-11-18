@@ -1,0 +1,153 @@
+
+READ THIS: https://jekyllrb.com/docs/structure/
+https://analytics.google.com/
+how to use DISQUS
+edit fun.html
+.
+├── 404.html  # edit 404 page
+├── CNAME # domain name
+├── Gruntfile.js
+├── LICENSE  
+├── _config.yml  # config
+├── _includes # homepage templates
+│   ├── about
+│   │   ├── en.md  # cv-en
+│   │   └── zh.md  # cv-zh
+│   ├── featured-tags.html  
+│   ├── footer.html  
+│   ├── friends.html  
+│   ├── head.html
+│   ├── intro-header.html
+│   ├── mathjax_support.html
+│   ├── multilingual-sel.html
+│   ├── nav.html
+│   ├── posts
+│   ├── short-about.html
+│   └── sns-links.html  
+├── _layouts  # template for most posts
+│   ├── default.html
+│   ├── keynote.html
+│   ├── page.html
+│   └── post.html
+├── _posts
+│   └─ example.md
+├── about.html
+├── archive.html
+├── css
+│   ├── bootstrap.css
+│   ├── bootstrap.min.css
+│   ├── hux-blog.css
+│   └── hux-blog.min.css
+├── feed.xml
+├── fonts
+│   ├── glyphicons-halflings-regular.eot
+│   ├── glyphicons-halflings-regular.svg
+│   ├── glyphicons-halflings-regular.ttf
+│   ├── glyphicons-halflings-regular.woff
+│   └── glyphicons-halflings-regular.woff2
+├── img
+│   ├── 404-bg.jpg
+│   ├── about-bg-walle.jpg
+│   ├── about-bg.jpg
+│   ├── contact-bg.jpg
+│   ├── favicon.ico
+│   ├── home-bg-art.jpg
+│   ├── home-bg-o.jpg
+│   ├── home-bg.jpg
+│   ├── icon_wechat.png
+│   ├── in-post
+│   │   ├── forcify.jpg
+│   │   ├── open-source-license.png
+│   │   ├── post-alitrip-pd
+│   │   │   ├── post-alitrip-pd.013.jpg
+│   │   │   ├── post-alitrip-pd.014.jpg
+│   │   │   ├── post-alitrip-pd.016.jpg
+│   │   │   ├── post-alitrip-pd.018.jpg
+│   │   │   ├── post-alitrip-pd.019.jpg
+│   │   │   ├── post-alitrip-pd.020.jpg
+│   │   │   ├── post-alitrip-pd.021.jpg
+│   │   │   ├── post-alitrip-pd.023.jpg
+│   │   │   ├── post-alitrip-pd.026.jpg
+│   │   │   ├── post-alitrip-pd.028.jpg
+│   │   │   ├── post-alitrip-pd.029.jpg
+│   │   │   ├── post-alitrip-pd.030.jpg
+│   │   │   └── post-alitrip-pd.031.jpg
+│   │   ├── post-c-u-ali-079717.png
+│   │   ├── post-c-u-ali-memo.jpg
+│   │   ├── post-c-u-ali-team.png
+│   │   ├── post-eleme-pwa
+│   │   │   ├── Architecture.png
+│   │   │   ├── Lighthouse-after.png
+│   │   │   ├── Lighthouse-before.png
+│   │   │   ├── PRECACHE-future-routes.jpg
+│   │   │   ├── PUSH-link-rel-preload.jpg
+│   │   │   ├── after-skeleton.jpg
+│   │   │   ├── before-skeleton.jpg
+│   │   │   ├── eleme-at-io.jpg
+│   │   │   ├── msite-After-Optim.png
+│   │   │   ├── msite-Before-Optim.png
+│   │   │   ├── nextTick-&-Load.png
+│   │   │   └── thisTick-&-Load.png
+│   │   ├── post-f-f-weibo.png
+│   │   ├── post-js-version
+│   │   │   ├── javascript-java.jpg
+│   │   │   └── keep-calm-and-learn-javascript.png
+│   │   ├── post-kuaidi-1.jpg
+│   │   ├── post-kuaidi-2.jpg
+│   │   ├── post-metro-panorama.jpg
+│   │   ├── post-metro-real.jpg
+│   │   ├── post-metro-ui.jpg
+│   │   ├── post-nextgen-web-pwa
+│   │   │   ├── PWAR-007.jpeg
+│   │   │   ├── PWAR-014+PWA.jpeg
+│   │   │   ├── flipkart-1.jpeg
+│   │   │   ├── flipkart-2.jpeg
+│   │   │   ├── flipkart-3.jpeg
+│   │   │   ├── ios2-a2hs.gif
+│   │   │   ├── qcon-hybridzation.png
+│   │   │   ├── qcon-trend.png
+│   │   │   ├── sw-lifecycle.png
+│   │   │   ├── sw-race.png
+│   │   │   └── sw-sw.png
+│   │   └── post-wmu
+│   │       ├── maoyan.jpg
+│   │       ├── question.jpg
+│   │       └── wepiao.jpg
+│   ├── post-bg-2015.jpg
+│   ├── post-bg-alitrip.jpg
+│   ├── post-bg-css.jpg
+│   └── tag-bg.jpg
+├── index.html
+├── js
+│   ├── animatescroll.min.js
+│   ├── archive.js
+│   ├── bootstrap.js
+│   ├── bootstrap.min.js
+│   ├── hux-blog.js
+│   ├── hux-blog.min.js
+│   ├── jquery.js
+│   ├── jquery.min.js
+│   ├── jquery.nav.js
+│   ├── jquery.tagcloud.js
+│   ├── snackbar.js
+│   └── sw-registration.js
+├── less
+│   ├── highlight.less
+│   ├── hux-blog.less
+│   ├── mixins.less
+│   ├── side-catalog.less
+│   ├── sidebar.less
+│   ├── snackbar.less
+│   └── variables.less
+├── offline.html
+├── package-lock.json
+├── package.json
+├── pwa
+│   ├── icons
+│   │   ├── 128.png
+│   │   └── 512.png
+│   └── manifest.json
+├── sw.js
+└── todo.txt
+
+113 directories, 299 files
