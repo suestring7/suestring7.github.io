@@ -79,7 +79,7 @@ ga_domain: suestring.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the wasted moments<br> Thinking while living"
+sidebar-about-description: "Inaction breeds doubt and fear. <br> Action breeds confidence and courage"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
