@@ -9,8 +9,6 @@ tags:
 
 ---
 
-# Cases distribution
+# Cases distribution (Log form)
 {% include us-cases-count-log.html %}
-# Affected or not
-{% include us-yesno.html %}
 
