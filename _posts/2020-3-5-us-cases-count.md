@@ -10,7 +10,7 @@ tags:
 ---
 
 # Cases distribution
-{% include us-cases-count.html %}
+{% include us-cases-count-log.html %}
 # Affected or not
 {% include us-yesno.html %}
 
